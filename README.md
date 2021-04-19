@@ -1,5 +1,4 @@
-<!--
-**paahdiego/paahdiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### <div align="center">I'm Patrick Diego, a electrical engineering student and freelance developer 👨‍💻 </div>  
   

@@ -13,7 +13,6 @@
 <br/>  
 
 
-
 ### Languages and tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  

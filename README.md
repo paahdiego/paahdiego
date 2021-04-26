@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Patrick Diego, a electrical engineering student and freelance developer 👨‍💻 </div>  
+### I'm Patrick Diego, a electrical engineering student and freelance developer 👨‍💻   
   
 
 - 🔭 I’m currently working on Zeetech  

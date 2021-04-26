@@ -13,7 +13,6 @@
 <br/>  
 
 
-
 ### Languages and tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
@@ -52,8 +51,14 @@
 
 
 ## Github Stats
-<img align="left" alt="Paadiego's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paahdiego" />
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=paahdiego&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div>
+<div align="center">
+  <img alt="Paadiego's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paahdiego" align="center"/>
+</div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paahdiego&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
+</div>  
 
 <br/>  
 
@@ -62,6 +67,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

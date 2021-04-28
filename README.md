@@ -40,7 +40,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="center" style="width: 100%">
 <a href="https://github.com/paahdiego" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
@@ -51,7 +51,7 @@
 
 
 ## Github Stats
-<div align="center">
+<div align="center" style="width: 100%">
   <img alt="Paadiego's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paahdiego" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api?username=paahdiego&show_icons=true&count_private=true&hide_border=true" align="left" />
 </div>  

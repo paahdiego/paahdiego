@@ -2,7 +2,7 @@
   
 - 🔭 I’m currently working on Zeetech  
   
-- 🌱 I’m currently learning Flutter, NodeJS and ReactJS  
+- 🌱 I’m currently learning Flutter, NodeJS, ReactJS and NextJS
   
 <br/>  
 

@@ -1,17 +1,10 @@
-
-
 ### I'm Patrick Diego, a electrical engineering student and freelance developer 👨‍💻   
   
-
 - 🔭 I’m currently working on Zeetech  
   
-
 - 🌱 I’m currently learning Flutter, NodeJS and ReactJS  
   
-  
-
 <br/>  
-
 
 ### Languages and tools  
 <div align="center">  
@@ -35,9 +28,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
 </div>  
-
 <br/>  
-
 
 ## Connect with me  
 <div align="center" style="width: 1180px">
@@ -45,21 +36,9 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
-
 
 ## Github Stats
-
 <img alt="Paadiego's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paahdiego" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api?username=paahdiego&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-
 <br/>  
-
-<div align="center" style="width: 100%">
-<img src="https://komarev.com/ghpvc/?username=paahdiego&&style=flat-square" align="center" />
-</div>  
-
-<br />

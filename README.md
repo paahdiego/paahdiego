@@ -30,13 +30,6 @@
 </div>  
 <br/>  
 
-## Connect with me  
-<div align="center" style="width: 1180px">
-<a href="https://github.com/paahdiego" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<br/>  
 
 ## Github Stats
 <img alt="Paadiego's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paahdiego" align="left"/>

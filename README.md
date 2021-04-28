@@ -51,7 +51,7 @@
 
 
 ## Github Stats
-<div>
+<div align="center">
   <img alt="Paadiego's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paahdiego" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api?username=paahdiego&show_icons=true&count_private=true&hide_border=true" align="left" />
 </div>  

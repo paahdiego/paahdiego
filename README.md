@@ -1,8 +1,8 @@
-### I'm Patrick Diego, a electrical engineering student and freelance developer 👨‍💻   
+### I'm Patrick Diego, engineering student and freelance developer 👨‍💻   
   
 - 🔭 I’m currently working on Zeetech  
   
-- 🌱 I’m currently learning Flutter, NodeJS, ReactJS and NextJS
+- 🌱 I’m currently learning Flutter.
   
 <br/>  
 

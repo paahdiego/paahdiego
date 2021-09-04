@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Patrick</h1>
-<h3 align="center">A student and a fullstack freelance developer. 👨‍💻</h3>
+<h3 align="center">A enginneering student and a fullstack freelance developer. 👨‍💻</h3>
 
 - 🔭 I’m currently working on **Zeetech**
 

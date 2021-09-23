@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Zeetech**
 
-- 🌱 I’m currently learning **Flutter, NestJS, JavaScript and TypeScript.**
+- 🌱 I’m currently learning **Flutter, NodeJS, NestJS, JavaScript and TypeScript.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/paahdiego](https://github.com/paahdiego)
 
-- 💬 Ask me about **Flutter, NestJS, JavaScript and TypeScript.**
+- 💬 Ask me about **Flutter, NodeJS, NestJS, JavaScript and TypeScript.**
 
 - 📫 How to reach me **patrickdiegoas@gmail.com**
 

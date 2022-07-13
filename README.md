@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Patrick</h1>
-<h3 align="center">A enginneering student and a freelance developer. 👨‍💻</h3>
+<h3 align="center">A enginneering student and a full stack developer. 👨‍💻</h3>
 
-- 🔭 I’m currently working on **Zeetech**
-
-- 🌱 I’m currently learning **Flutter, NodeJS, NestJS, JavaScript and TypeScript.**
+- 🌱 I’m currently learning **Flutter, NodeJS and ReactJS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/paahdiego](https://github.com/paahdiego)
 

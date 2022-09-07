@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Patrick</h1>
 <h3 align="center">A enginneering student and a full stack developer. 👨‍💻</h3>
 
-- 🌱 I’m currently learning **Flutter, NodeJS and ReactJS.**
+- 🌱 I’m currently learning **Flutter and NodeJS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/paahdiego](https://github.com/paahdiego)
 

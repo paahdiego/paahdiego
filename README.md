@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/paahdiego](https://github.com/paahdiego)
 
-- 💬 Ask me about **Flutter, NodeJS, NestJS, JavaScript and TypeScript.**
+- 💬 Ask me about **Flutter, Dart, NodeJS, NestJS, TypeScript and JavaScript.**
 
 - 📫 How to reach me **patrickdiegoas@gmail.com**
 
